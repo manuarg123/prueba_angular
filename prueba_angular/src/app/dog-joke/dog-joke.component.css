@@ -1,0 +1,24 @@
+.color-background{
+    background: linear-gradient(to bottom, yellow 80%, white 20%);
+}
+
+.img-size{
+    width: 300px;
+    height: 300px;
+}
+
+.td-padding{
+    padding: 30px;
+}
+
+.td-alignements{
+    vertical-align: baseline!important;padding: 30px;
+}
+
+.joke-align{
+    margin: 0; vertical-align: top;
+}
+
+.countdown{
+    width: 75px; height: 20px; border: 1px solid black; margin-top: 50px; padding: 5px;
+}
